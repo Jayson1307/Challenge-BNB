@@ -13,14 +13,14 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van BNB-site maken                      |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
-| ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
-| ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
-| ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
-| ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Ontwerpen   | Mockup van BNB-site maken                      | 00:45 u             |        |
+| ...         | Styling van elementen bepalen                  | 00:30 u             |        |
+| Realiseren  | Bestanden aanmaken                             | 00:01 u             |        |
+| ...         | code schrijven                                 | 03:00 u             |        |
+| Testen      | Applicatie testen                              | 00:10 u             |        |
+| ...         | plus en minpunten opschrijven                  | 00:03 u             |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 01:00 u             |        |
+| ...         | opnieuw testen                                 | 00:10 u             |        |
+| Presenteren | applicatie presenteren                         | 00:15 u             |        |
+| ...         | eventuele minpunten verbeteren                 | 00:15 u             |        |
+| Refecteren  | Reflectiedocument schrijven                    | 00:15 u             |        |
